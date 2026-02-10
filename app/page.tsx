@@ -30,7 +30,7 @@ export default function Home() {
             />
           </div>
 
-          <h1 className="text-4xl md:text-5xl font-bold text-primary tracking-tighter mb-6">
+          <h1 className="text-4xl md:text-5xl font-bold text-black tracking-tighter mb-6">
             Brooklyn Barber<span className="text-primary inline-block hover:scale-110 transition-transform">Shop</span>
           </h1>
 
