@@ -7,7 +7,7 @@ export const whatsappNumber = "5551996066966"
 export default function Contact() {
 
   const instagramUser = "donsbarberclub" 
-  const address = "Av. Beira-Mar, 2620 - Tramandaí, RS"
+  const address = "R. Claiton Hoffmeister, 1102 - Tramandaí, RS"
   const googleMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(address)}`
 
   return (
@@ -97,7 +97,7 @@ export default function Contact() {
             
             <div className="relative z-10 w-full h-full bg-zinc-900 overflow-hidden rounded-sm grayscale contrast-[0.9] hover:grayscale-0 transition-all duration-700">
                <iframe 
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110581.02640819282!2d-50.28322285664061!3d-29.989283799999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9518738b5f141147%3A0xe3da2e4219c52983!2sDanillo%20Andreoli%20Barbearia!5e0!3m2!1spt-BR!2sbr!4v1770699691946!5m2!1spt-BR!2sbr" 
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d110581.02640819282!2d-50.28322285664061!3d-29.989283799999992!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x951872b1baf71333%3A0xee30207ddba79a48!2sBrooklyn%20BarberShop!5e0!3m2!1spt-BR!2sbr!4v1770699111484!5m2!1spt-BR!2sbr" 
                 width="100%" 
                 height="100%" 
                 style={{ border: 0 }} 
