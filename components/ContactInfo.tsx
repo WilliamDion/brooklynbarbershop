@@ -2,7 +2,7 @@
 import { FaWhatsapp, FaInstagram, FaMapMarkerAlt, FaClock } from 'react-icons/fa'
 import { BUSINESS_HOURS } from '@/src/config/business-hours'
 
-export const whatsappNumber = "5551996194665"
+export const whatsappNumber = "5551996066966"
 
 export default function Contact() {
 
@@ -38,7 +38,7 @@ export default function Contact() {
                 </div>
                 <div className="ml-6">
                   <p className="text-xs uppercase tracking-widest text-zinc-500 font-bold">WhatsApp</p>
-                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 99619-4665</p>
+                  <p className="text-xl font-bold group-hover:text-primary transition-colors">(51) 99606-6966</p>
                 </div>
               </a>
 
